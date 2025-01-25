@@ -1,0 +1,33 @@
+.nav {
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 136, 255);
+    font-weight: bolder;
+}
+
+li {
+    list-style-type: none;
+
+}
+
+.outer {
+    width: 400px;
+    height: 400px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.inner {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0, 136, 255);
+}

@@ -1,0 +1,2 @@
+<p><b>Q1:</b> Create a div with height & width of 100 px.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Set its backgroud color to green & the border radius to 50%.</p>
+<p><b>Q2:</b> Create the navbar.</p>
